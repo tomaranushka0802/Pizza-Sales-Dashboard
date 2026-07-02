@@ -19,8 +19,7 @@ This project analyzes pizza sales data to understand revenue, order trends, best
 - Excel / CSV Dataset
 
 ## Dashboard Preview
-![Pizza Sales Dashboard](<img width="1158" height="638" alt="Screenshot 2026-06-28 021940" src="https://github.com/user-attachments/assets/68d7972e-f80d-4c85-b7e7-f0c60ea49a96" />)
-
+![Pizza Sales Dashboard] <img width="1158" height="638" alt="Pizza Sales Dashboard" src="https://github.com/user-attachments/assets/68d7972e-f80d-4c85-b7e7-f0c60ea49a96" />
 
 ## Files
 - `pizza sales.pbix` — Power BI dashboard file
